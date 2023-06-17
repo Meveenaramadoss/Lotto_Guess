@@ -1,0 +1,64 @@
+
+
+h2 {
+    color: rgb(72, 162, 236);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.5 cm;
+    
+}
+div.palsta {
+    padding: 0;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 1em;
+}
+section {
+    margin-top: 0.5 cm;
+    margin-right: 10em;
+    padding-top: 10 em ;
+  
+}
+
+
+button {
+    background-color: #4bd669; /* Green */
+    border: 10em;
+    border-color: black;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+p{
+    color: rgb(9, 55, 58);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.15 cm;
+    
+}
+label {
+    margin-bottom: 0.5em;
+    width: 5em;
+    display: inline-block; 
+}
+
+label.long {
+    width: 6.5em;
+}
+
+input {
+    width: 6em;
+}
+
+p#multiplication {
+    font-family: courier;
+    font-size: 0.8em;
+}
+
+label.extra_long {
+    display: block;
+    width: 100%;
+    margin-top: 0.5em;        
+}
+
